@@ -28,7 +28,7 @@ There are two separate Laravel projects inside this repository:
 
 ---
 
-# 🚀 Getting Started (For Developers)
+# Getting Started (For Developers)
 
 ### 1. Clone the Repository 
 
@@ -128,7 +128,7 @@ php artisan serve
 
 ## Notifications
 
-- Notifications show in the 🔔 bell icon.
+- Notifications show in the bell icon.
 - Admin and member systems use Laravel’s built-in notification system.
 
 ---
